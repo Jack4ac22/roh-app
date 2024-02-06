@@ -1,0 +1,6 @@
+.nav_item li:hover,
+.active {
+  text-shadow: 0 0 5px red;
+  text-emphasis: bold;
+  transform: rotate3d(1, 1, 1, 4deg);
+}
